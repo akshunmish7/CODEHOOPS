@@ -1,2 +1,2 @@
-# CODEIAL
+# CODEHOOPS
 Social Media Web Application
