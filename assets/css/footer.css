@@ -1,19 +1,19 @@
 footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: grey;
-  color: white; }
-  footer a {
-    color: white;
-    text-decoration: none;
-    display: block; }
-  footer #left {
+  height: 10vh; }
+  footer #footer-inner {
     display: flex;
-    align-items: center;
-    justify-content: space-around;
-    width: 22%; }
+    background-color: #3f82ac;
+    align-items: center; }
+    footer #footer-inner #footer-part1 {
+      color: white;
+      margin-left: 10px; }
+    footer #footer-inner #footer-part2 {
+      display: flex;
+      flex-direction: column;
+      width: 10vw;
+      height: 10vh;
+      justify-content: center;
+      align-items: center; }
+      footer #footer-inner #footer-part2 a {
+        text-decoration: none;
+        color: white; }

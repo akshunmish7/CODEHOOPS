@@ -1,19 +1,36 @@
 header {
-  background-color: dodgerblue;
-  position: fixed;
-  color: white;
-  height: 2.5vw;
-  width: 100%;
   display: flex;
+  height: 10vh;
   justify-content: space-between;
-  align-items: center; }
-  header a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #0b3e5c; }
+  header #part1 {
+    display: flex;
     color: white;
-    text-decoration: none; }
-  header #left {
-    margin-left: 0.5vw;
-    font-weight: bold;
-    font-size: 1.9vw; }
-  header #right {
-    margin-right: 0.5vw;
-    font-size: 1.4vw; }
+    align-items: center; }
+    header #part1 h1 {
+      margin: 0;
+      padding: 0; }
+  header #part2 {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    min-width: 13%; }
+    header #part2 li {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      margin-left: 10px; }
+      header #part2 li #logged-user {
+        display: flex;
+        align-items: center; }
+        header #part2 li #logged-user #user-img {
+          border-radius: 50px; }
+        header #part2 li #logged-user #user-name {
+          margin-left: 10px; }
+      header #part2 li a {
+        text-decoration: none;
+        font-size: 20px;
+        color: white; }

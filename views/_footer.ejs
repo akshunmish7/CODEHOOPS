@@ -1,16 +1,19 @@
 <footer>
-    <div id="left">
-        <div>
-            <p>© Akshun Mishra. All Rights Reserved</p>
+    <div id="footer-inner">
+        <div id="footer-part1">
+            <p> <i class="fa-solid fa-copyright"></i> Akshun Mishra . All Rights Reserved</p>
         </div>
-        <div>
-            <a href="/">Home</a>
-            <%if(locals.user) { %>
-                <a href="/users/profile/<%= user.id %>">Profile</a>
-            <% } else { %>
-                <a href="/users/sign-in">Sign In</a>
+    
+        <div  id="footer-part2">
+            <div>
+                <a href="/">Home</a>
+            </div>
+            <% if(locals.user){ %>
+                <div>
+                    <a href="/users/profile/<%= locals.user._id %>">Profile</a>
+                </div>
             <% } %>
+            
         </div>
     </div>
-    <div id="right"></div>
 </footer>

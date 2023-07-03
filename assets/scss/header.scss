@@ -1,27 +1,53 @@
-header
-{
-    background-color: dodgerblue;
-    position: fixed;
-    color: white;
-    height: 2.5vw;
-    width: 100%;
+
+header{
     display: flex;
+    height: 10vh;
     justify-content: space-between;
-    align-items: center;
-    a
-    {
+    padding-left: 10px;
+    padding-right: 10px;
+    // background-color: rgb(0, 162, 255);
+    background-color: rgb(11, 62, 92);
+    #part1{
+        display: flex;
         color: white;
-        text-decoration: none;
+        align-items: center;
+        h1{
+            margin: 0;
+            padding: 0;
+        }
     }
-    #left
-    {
-        margin-left: 0.5vw;
-        font-weight: bold;
-        font-size: 1.9vw;
-    }
-    #right
-    {
-        margin-right: 0.5vw;
-        font-size: 1.4vw;
+
+    #part2{
+        padding: 0;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+        min-width: 13%;
+
+        li{
+            list-style: none;
+            display: flex;
+            align-items: center;
+            margin-left: 10px;
+
+            #logged-user{
+               display: flex;
+               align-items: center;
+               #user-img{
+                border-radius: 50px;
+               }
+               #user-name{
+                margin-left: 10px;
+               }
+            }
+
+            a{
+                text-decoration: none;
+                font-size: 20px;
+                color: white;            
+            }
+        }
     }
 }
+
+
