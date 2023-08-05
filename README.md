@@ -1,4 +1,4 @@
-# Codeial
+# CODEHOOPS
 
 <h3>A Social media Web Application with CRUD operations</h3>
 
