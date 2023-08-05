@@ -1,6 +1,6 @@
 # CODEHOOPS
 
-<h3>A Social media Web Application with CRUD operations</h3>
+<h3>A Social media Web Application</h3>
 
 
 ```sh
@@ -8,6 +8,21 @@ For Testing :
 Email : abc@gmail.com
 Password: 123
 ```
+
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/1bef5e1b-fcb5-4d11-928d-fd933b20730c)
+<h4>Home Page Before Sign-In</h4>
+
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/3d512688-28f6-482c-879f-e3c2dafe9ce6)
+<h4>Sign-In Page</h4>
+
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/0cc089e6-8213-448d-9692-3945d6955b9a)
+<h4>Google Authentication Page</h4>
+
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/cde555b8-1513-4841-bb0e-5078995f86ec)
+<h4>Home Page After Sign-In</h4>
+
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/3066158f-e748-4dbc-bec1-92354bd693c8)
+<h4>Profile Page After Sign-In</h4>
 
 
 ## Features
@@ -54,6 +69,12 @@ https://github.com/akshunmish7/CODEHOOPS.git
 
 ```sh
 npm install
+```
+
+### Run Application on Local
+
+```sh
+npm start
 ```
 
 ### Comments in code
