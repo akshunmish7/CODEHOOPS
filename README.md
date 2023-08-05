@@ -9,19 +9,24 @@ Email : abc@gmail.com
 Password: 123
 ```
 
-![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/1bef5e1b-fcb5-4d11-928d-fd933b20730c)
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/1a1d04d2-d337-4cf1-baa7-8273336b3ec1)
+
 <h4>Home Page Before Sign-In</h4>
 
-![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/3d512688-28f6-482c-879f-e3c2dafe9ce6)
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/ce8e6b18-8cf1-42ad-80ce-c82142d1f9c5)
+
 <h4>Sign-In Page</h4>
 
-![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/0cc089e6-8213-448d-9692-3945d6955b9a)
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/2b6cc99d-0994-418b-b291-9f9425184540)
+
 <h4>Google Authentication Page</h4>
 
-![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/cde555b8-1513-4841-bb0e-5078995f86ec)
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/63361456-3265-4334-93c3-bf5773a3cc84)
+
 <h4>Home Page After Sign-In</h4>
 
-![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/3066158f-e748-4dbc-bec1-92354bd693c8)
+![image](https://github.com/akshunmish7/CODEHOOPS/assets/95397400/3ef85c10-6ab7-492d-b1b9-281f49d15da1)
+
 <h4>Profile Page After Sign-In</h4>
 
 
